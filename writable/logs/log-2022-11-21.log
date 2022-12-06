@@ -1,0 +1,21 @@
+CRITICAL - 2022-11-21 20:18:37 --> Undefined variable $strKeyword
+in APPPATH\Views\datatest.php on line 21.
+ 1 APPPATH\Views\datatest.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $strKeyword', 'APPPATH\\Views\\datatest.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\datatest.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('datatest', [], true)
+ 5 APPPATH\Controllers\databases.php(27): view('datatest', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\databases->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\databases))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 20:22:48 --> Class "App\Controllers\BaseController" not found
+in APPPATH\Controllers\databases.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\databases.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\databases')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\databases')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\databases', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

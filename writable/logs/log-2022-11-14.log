@@ -1,0 +1,1631 @@
+CRITICAL - 2022-11-14 20:11:06 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:11:44 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:00 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:01 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:01 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:02 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:02 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:37 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:37 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:48 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:12:58 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:13:10 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:13:11 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:13:11 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:13:11 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:13:19 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:13:25 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:32 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:32 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:40 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:40 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:48 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:53 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:14:58 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:04 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:21 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:21 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:22 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:23 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:23 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:36 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:45 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:46 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:15:54 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:16:42 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 2.
+ 1 APPPATH\Views\search-id.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 2)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:19:45 --> Undefined variable $servername
+in APPPATH\Views\search-id.php on line 4.
+ 1 APPPATH\Views\search-id.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\search-id.php', 4)
+ 2 APPPATH\Views\test.php(8): include('APPPATH\\Views\\search-id.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:21:49 --> include(Models\connection.php): Failed to open stream: No such file or directory
+in APPPATH\Views\test.php on line 9.
+ 1 APPPATH\Views\test.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models\\connection.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\test.php', 9)
+ 2 APPPATH\Views\test.php(9): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:22:00 --> include(Models\connection): Failed to open stream: No such file or directory
+in APPPATH\Views\test.php on line 9.
+ 1 APPPATH\Views\test.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models\\connection): Failed to open stream: No such file or directory', 'APPPATH\\Views\\test.php', 9)
+ 2 APPPATH\Views\test.php(9): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:22:15 --> include(..\Models\connection): Failed to open stream: No such file or directory
+in APPPATH\Views\test.php on line 9.
+ 1 APPPATH\Views\test.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(..\\Models\\connection): Failed to open stream: No such file or directory', 'APPPATH\\Views\\test.php', 9)
+ 2 APPPATH\Views\test.php(9): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:22:28 --> include(..\Models\connection.php): Failed to open stream: No such file or directory
+in APPPATH\Views\test.php on line 9.
+ 1 APPPATH\Views\test.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(..\\Models\\connection.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\test.php', 9)
+ 2 APPPATH\Views\test.php(9): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:23:37 --> Undefined variable $servername
+in APPPATH\Views\connection.php on line 3.
+ 1 APPPATH\Views\connection.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\connection.php', 3)
+ 2 APPPATH\Views\test.php(9): include('APPPATH\\Views\\connection.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:23:54 --> Undefined variable $servername
+in APPPATH\Views\connection.php on line 3.
+ 1 APPPATH\Views\connection.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\connection.php', 3)
+ 2 APPPATH\Views\test.php(9): include('APPPATH\\Views\\connection.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 20:24:35 --> Undefined variable $servername
+in APPPATH\Views\connection.php on line 3.
+ 1 APPPATH\Views\connection.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $servername', 'APPPATH\\Views\\connection.php', 3)
+ 2 APPPATH\Views\test.php(9): include('APPPATH\\Views\\connection.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:03:32 --> Invalid file: MyQuery.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('MyQuery.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('MyQuery', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('MyQuery')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:03:33 --> Invalid file: MyQuery.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('MyQuery.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('MyQuery', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('MyQuery')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:06:32 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:06:33 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:06:33 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:06:33 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:06:45 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:08:32 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:08:32 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:08:32 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:08:33 --> Call to undefined function App\Controllers\Controllers()
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 22:18:31 --> Invalid file: test.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('test.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('test')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:29:17 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:29:17 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:30:03 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:30:03 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:30:04 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:30:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:30:04 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:30:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:31:34 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:31:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:31:35 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:31:35 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:31:35 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:31:35 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:31:35 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'tbl_admin', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'tbl_admin' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:31:35 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'tbl_admin'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select admin_id,admin_name,admin_pass,admin_adddate,admin_lastlogin')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:35:42 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:35:42 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influencer_id,network,follower,following,rawdata,engagement FROM influencer_stat_post_recent 
+        where  influencer_id = 524509
+        ORDER BY create_date DESC    
+        LIMIT 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:35:52 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:35:52 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influencer_id,network,follower,following,rawdata,engagement FROM influencer_stat_post_recent 
+        WHERE  influencer_id = 524509
+        ORDER BY create_date DESC    
+        LIMIT 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:35:53 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:35:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT influencer_id,network,follower,following,rawdata,engagement FROM influencer_stat_post_recent 
+        WHERE  influencer_id = 524509
+        ORDER BY create_date DESC    
+        LIMIT 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:36:15 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:36:15 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influencer_id,network,follower,following,rawdata,engagement FROM influencer_stat_post_recent 
+        WHERE  influencer_id = 524509
+        ORDER BY create_date DESC    
+        LIMIT 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:37:01 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:37:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influencer_id,network,follower,following,rawdata,engagement from influencer_stat_post_recent 
+        where  influencer_id = 524509
+        order by create_date desc    
+        limit 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:37:01 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:37:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influencer_id,network,follower,following,rawdata,engagement from influencer_stat_post_recent 
+        where  influencer_id = 524509
+        order by create_date desc    
+        limit 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 22:37:01 --> Error connecting to the database: mysqli_sql_exception: Access denied for user '122.155.166.63'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', '122.155.166.63', 'intern', 'TVIw3yZchDLH', 3306, '', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-11-14 22:37:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('select influencer_id,network,follower,following,rawdata,engagement from influencer_stat_post_recent 
+        where  influencer_id = 524509
+        order by create_date desc    
+        limit 0, 100')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:07:40 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:07:40 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:07:45 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:07:45 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:09:02 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:09:02 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:09:03 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:09:03 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:09:06 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:09:06 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:11:12 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:11:12 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:11:12 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:11:12 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:11:13 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:11:13 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:13:40 --> Invalid file: welcome_massage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_massage.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_massage', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('welcome_massage')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:21:31 --> Error connecting to the database: ErrorException: Uninitialized string offset 0 in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:82
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized s...', 'C:\\xampp\\htdocs...', 82)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci4\app\Views\welcome_message.php(4): CodeIgniter\Database\BaseConnection->query('select influenc...')
+#4 C:\xampp\htdocs\ci4\system\View\View.php(213): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ci4\system\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp\htdocs\ci4\system\Common.php(1134): CodeIgniter\View\View->render('welcome_message', Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Home.php(10): view('welcome_message')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 23:21:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Uninitialized string offset 0
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Views\welcome_message.php(4): CodeIgniter\Database\BaseConnection->query('select influencer_id,network,follower,following,rawdata,engagement from influencer_stat_post_recent 
+        where  influencer_id = 524509
+        order by create_date desc    
+        limit 0, 100')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 6 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:24:50 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Views\test.php(12): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\View\View.php(213): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ci4\system\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp\htdocs\ci4\system\Common.php(1134): CodeIgniter\View\View->render('test', Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Home.php(10): view('test')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 23:24:50 --> Call to a member function getResult() on bool
+in APPPATH\Views\test.php on line 15.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('test', [], true)
+ 4 APPPATH\Controllers\Home.php(10): view('test')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:32:52 --> Undefined constant "App\Controllers\search"
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:32:59 --> Undefined constant "App\Controllers\search_id"
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:33:00 --> Undefined constant "App\Controllers\search_id"
+in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:38:32 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(32): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:38:32 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:38:33 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(32): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:38:33 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:40:01 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(32): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:40:01 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:40:12 --> Invalid file: search_id.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_id.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('search_id', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('search_id')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:40:34 --> mysqli_sql_exception: Unknown column '$strnetwork' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:40:34 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:41:22 --> Invalid file: search_id.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_id.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('search_id', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('search_id')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:41:23 --> Invalid file: search_id.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_id.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('search_id', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('search_id')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:41:39 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(16): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:41:39 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:41:40 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(16): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:41:40 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:41:40 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\Home.php(16): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-14 23:41:40 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:42:26 --> Invalid file: search_id.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_id.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('search_id', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('search_id')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:45:00 --> mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, array given
+in APPPATH\Views\welcome_message.php on line 11.
+ 1 APPPATH\Views\welcome_message.php(11): mysqli_fetch_array([...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:47:37 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Views\welcome_message.php(4): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\View\View.php(213): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ci4\system\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp\htdocs\ci4\system\Common.php(1134): CodeIgniter\View\View->render('welcome_message', Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Home.php(10): view('welcome_message')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 23:47:37 --> Call to a member function getResult() on bool
+in APPPATH\Views\welcome_message.php on line 7.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:47:55 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Views\welcome_message.php(4): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\View\View.php(213): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ci4\system\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp\htdocs\ci4\system\Common.php(1134): CodeIgniter\View\View->render('welcome_message', Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Home.php(10): view('welcome_message')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 23:47:55 --> Call to a member function getResult() on bool
+in APPPATH\Views\welcome_message.php on line 7.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-14 23:48:37 --> mysqli_sql_exception: Unknown column 'facebook' in 'where clause' in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('select rawdata ...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('select rawdata ...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('select rawdata ...')
+#3 C:\xampp\htdocs\ci4\app\Views\welcome_message.php(4): CodeIgniter\Database\BaseConnection->query('select rawdata ...')
+#4 C:\xampp\htdocs\ci4\system\View\View.php(213): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\ci4\system\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp\htdocs\ci4\system\Common.php(1134): CodeIgniter\View\View->render('welcome_message', Array, true)
+#7 C:\xampp\htdocs\ci4\app\Controllers\Home.php(10): view('welcome_message')
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\Home->index()
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-11-14 23:48:37 --> Call to a member function getResult() on bool
+in APPPATH\Views\welcome_message.php on line 7.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:50:36 --> mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, array given
+in APPPATH\Views\welcome_message.php on line 11.
+ 1 APPPATH\Views\welcome_message.php(11): mysqli_fetch_array([...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:50:48 --> Undefined variable $row
+in APPPATH\Views\welcome_message.php on line 9.
+ 1 APPPATH\Views\welcome_message.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'APPPATH\\Views\\welcome_message.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:51:04 --> Undefined array key "rawdata"
+in APPPATH\Views\welcome_message.php on line 9.
+ 1 APPPATH\Views\welcome_message.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rawdata"', 'APPPATH\\Views\\welcome_message.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:51:30 --> Undefined array key "rawdata"
+in APPPATH\Views\welcome_message.php on line 9.
+ 1 APPPATH\Views\welcome_message.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rawdata"', 'APPPATH\\Views\\welcome_message.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:51:34 --> Undefined array key "rawdata"
+in APPPATH\Views\welcome_message.php on line 9.
+ 1 APPPATH\Views\welcome_message.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rawdata"', 'APPPATH\\Views\\welcome_message.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:53:32 --> mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, array given
+in APPPATH\Views\welcome_message.php on line 24.
+ 1 APPPATH\Views\welcome_message.php(24): mysqli_fetch_array([...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:54:08 --> mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, array given
+in APPPATH\Views\welcome_message.php on line 24.
+ 1 APPPATH\Views\welcome_message.php(24): mysqli_fetch_array([...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-14 23:54:09 --> mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, array given
+in APPPATH\Views\welcome_message.php on line 24.
+ 1 APPPATH\Views\welcome_message.php(24): mysqli_fetch_array([...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(10): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,271 @@
+CRITICAL - 2022-11-23 03:24:41 --> Unclosed '{' on line 83
+in APPPATH\Views\demo_view.php on line 577.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:28:13 --> Unclosed '{' on line 48
+in APPPATH\Views\demo_view.php on line 575.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:29:32 --> Unclosed '{' on line 48
+in APPPATH\Views\demo_view.php on line 575.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:31:31 --> Unclosed '{' on line 48
+in APPPATH\Views\demo_view.php on line 575.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:32:39 --> syntax error, unexpected identifier "border", expecting "," or ";"
+in APPPATH\Views\demo_view.php on line 101.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:36:45 --> Unsupported operand types: string + string
+in APPPATH\Views\demo_view.php on line 95.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:37:57 --> syntax error, unexpected variable "$value_rawdata", expecting "," or ";"
+in APPPATH\Views\demo_view.php on line 95.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 3 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:43:21 --> Undefined property: stdClass::$shear
+in APPPATH\Views\demo_view.php on line 95.
+ 1 APPPATH\Views\demo_view.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$shear', 'APPPATH\\Views\\demo_view.php', 95)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 03:45:54 --> Division by zero
+in APPPATH\Views\demo_view.php on line 135.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:29:41 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:30:12 --> Undefined property: stdClass::$createddate_post
+in APPPATH\Views\demo_view.php on line 95.
+ 1 APPPATH\Views\demo_view.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$createddate_post', 'APPPATH\\Views\\demo_view.php', 95)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:30:32 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:34:47 --> Undefined property: stdClass::$createddate_post
+in APPPATH\Views\demo_view.php on line 95.
+ 1 APPPATH\Views\demo_view.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$createddate_post', 'APPPATH\\Views\\demo_view.php', 95)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:35:04 --> Undefined property: stdClass::$createddate_post
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$createddate_post', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:36:58 --> Undefined property: stdClass::$createddate_post
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$createddate_post', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-23 04:37:06 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''11081\'
+        ORDER BY create_date DESC
+        LIMIT 0,1' at line 1 in C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT rawdata,...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT rawdata,...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT rawdata,...')
+#3 C:\xampp\htdocs\ci4\app\Controllers\influencer_controller.php(17): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,...')
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-11-23 04:37:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''11081\'
+        ORDER BY create_date DESC
+        LIMIT 0,1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT rawdata,follower FROM influencer_stat_post_recent WHERE network = \'facebook\' AND influencer_id = \'11081\\\'
+        ORDER BY create_date DESC
+        LIMIT 0,1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT rawdata,follower FROM influencer_stat_post_recent WHERE network = \'facebook\' AND influencer_id = \'11081\\\'
+        ORDER BY create_date DESC
+        LIMIT 0,1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT rawdata,follower FROM influencer_stat_post_recent WHERE network = \'facebook\' AND influencer_id = \'11081\\\'
+        ORDER BY create_date DESC
+        LIMIT 0,1')
+ 4 APPPATH\Controllers\influencer_controller.php(17): CodeIgniter\Database\BaseConnection->query('SELECT rawdata,follower FROM influencer_stat_post_recent WHERE network = \'facebook\' AND influencer_id = \'11081\\\'
+        ORDER BY create_date DESC
+        LIMIT 0,1')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:37:49 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:38:29 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:38:33 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:38:34 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:38:35 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:38:35 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 04:40:18 --> Undefined property: stdClass::$view
+in APPPATH\Views\demo_view.php on line 94.
+ 1 APPPATH\Views\demo_view.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$view', 'APPPATH\\Views\\demo_view.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\demo_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 5 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-23 21:53:37 --> Call to a member function get() on string
+in APPPATH\Views\demo_view.php on line 32.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('demo_view', [], true)
+ 4 APPPATH\Controllers\influencer_controller.php(39): view('demo_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\influencer_controller->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\influencer_controller))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
